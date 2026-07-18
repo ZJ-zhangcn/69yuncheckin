@@ -1,4 +1,11 @@
-# 项目配置教程
+# 69 云签到
+
+> **本仓库**：[`ZJ-zhangcn/69yuncheckin`](https://github.com/ZJ-zhangcn/69yuncheckin)（fork）  
+> **上游**：[`yixiu001/69yuncheckin`](https://github.com/yixiu001/69yuncheckin)  
+> 文档语言：简体中文
+
+通过 GitHub Actions 定时签到，结果可用 Telegram Bot 通知。
+
 
 ## 1. 点击 Star 和 Fork 这个项目
 
